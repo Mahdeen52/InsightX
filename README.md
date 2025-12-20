@@ -67,8 +67,9 @@ pip install -r requirements.txt
 ## Project Screenshots
 
 ### Sales Dashboard
-(G:\Project\Sales_Channel_Analysis\images\Sales_Dashboard.png)
-(G:\Project\Sales_Channel_Analysis\images\Product_Performance.png)
-(G:\Project\Sales_Channel_Analysis\images\Sales_Analysis.png)
+(images\Sales_Dashboard.png)
+(Product_Performance.png)
+(images\Sales_Analysis.png)
+
 
 
