@@ -64,3 +64,11 @@ pip install -r requirements.txt
 3.   Run the Jupyter notebooks or Python scripts to reproduce the analysis
 
 
+## Project Screenshots
+
+### Sales Dashboard
+(G:\Project\Sales_Channel_Analysis\images\Sales_Dashboard.png)
+(G:\Project\Sales_Channel_Analysis\images\Product_Performance.png)
+(G:\Project\Sales_Channel_Analysis\images\Sales_Analysis.png)
+
+
