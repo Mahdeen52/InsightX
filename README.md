@@ -67,9 +67,11 @@ pip install -r requirements.txt
 ## Project Screenshots
 
 ### Sales Dashboard
-(images\Sales_Dashboard.png)
-(Product_Performance.png)
-(images\Sales_Analysis.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
+![Product Performance](images/Product_Performance.png)
+![Sales Analysis](images/Sales_Analysis.png)
+
+
 
 
 
