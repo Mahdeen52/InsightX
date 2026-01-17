@@ -1,6 +1,6 @@
-# Sales Analytics Project
+# InsightX
 
-**Repository:** https://github.com/Mahdeen52/sales_analytics_project
+**Repository:** https://github.com/Mahdeen52/InsightX
 
 ## Project Description
 
@@ -70,6 +70,7 @@ pip install -r requirements.txt
 ![Sales Dashboard](images/Sales_Dashboard.png)
 ![Product Performance](images/Product_Performance.png)
 ![Sales Analysis](images/Sales_Analysis.png)
+
 
 
 
